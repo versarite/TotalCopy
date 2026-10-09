@@ -1,0 +1,32 @@
+# Free Pascal / Lazarus build artifacts
+*.o
+*.ppu
+*.or
+*.a
+*.so
+*.dll
+*.compiled
+*.dbg
+*.dSYM/
+lib/
+units/
+bin/
+*.exe
+
+# Lazarus local/session state
+*.lps
+*.lpi~
+*.lpr~
+*.pas~
+*.lfm~
+*.lrs~
+*.bak
+backup/
+*.log
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
